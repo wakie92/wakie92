@@ -1,13 +1,21 @@
 # 안녕하세요, 프론트엔드 개발자 이창훈입니다 👋
 
 스타트업 문화를 좋아하며, 기술적 성취를 넘어 **좋은 동료**가 되기 위해 끊임없이 고민하는 프론트엔드 개발자입니다.
-블록체인, 핀테크, 커머스, 엔터 등 다양한 도메인에 관심이 많습니다. 
-좋은 프로덕트를 제공함으로써 사용자의 삶이 더 풍부해지는 경험을 원합니다.
+블록체인, 핀테크, 커머스, 엔터 등 다양한 도메인에 관심이 많습니다. 좋은 프로덕트를 제공함으로써 사용자의 삶이 더 풍부해지는 경험을 원합니다.
+<br /><br />
+
 
 `React` · `Next.js` · `React Native`를 주축으로 **금융·크립토**, **AI 플랫폼**, **멀티테넌트 SaaS** 등 난도 높은 도메인의 서비스를 End-to-End로 주도해왔습니다.
 
-> **비빌더스** 프론트엔드 리드 · **한빗코코리아** 프론트엔드팀 리드
+<br />
 
+- 단순히 주어진 태스크를 처리하는 데 그치지 않고, 프로덕트의 본질적인 가치를 고민하며 능동적으로 움직입니다.
+- 팀의 좋은 개발 문화와 생산성 향상을 위해 노력합니다.
+- 커뮤니케이션에 있어서는 명확한 근거를 바탕으로 한 투명하고 수평적인 태도를 지향합니다.
+- 무엇보다 스타트업 특유의 높은 불확실성 속에서도 흔들리지 않는 정서적 안정성을 바탕으로 팀의 중심을 잡아왔습니다.
+
+
+<br />
 <br />
 
 ## 🧰 Tech Stack
@@ -28,15 +36,8 @@
 
 <br />
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakie92&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakie92&layout=compact&theme=default)
-
-<br />
-
 ## 📫 Contact
 
-- Portfolio: ![포트폴리오](https://wakie92.notion.site/Frontend-Developer-66b034de3c3343189d6c18c371596d37)
-- Email: wakie9292@gmail.com
-- Resume: ![이력서](https://wakie92.notion.site/Frontend-Developer-34f576d8c5508077887be23dcd17a20f)
+- [Portfolio](https://wakie92.notion.site/Frontend-Developer-66b034de3c3343189d6c18c371596d37)
+- [wakie9292@gmail.com](mailto:wakie9292@gmail.com)
+- [Resume](https://wakie92.notion.site/Frontend-Developer-34f576d8c5508077887be23dcd17a20f)
