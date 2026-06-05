@@ -8,7 +8,7 @@
 
 <br />
 
-**🔭 요즘 관심사** — AI Native 개발 워크플로우 · 프론트엔드 렌더링 최적화 · Webview <--> React Native 
+**🔭 요즘 관심사** — AI Native 개발 워크플로우 · 프론트엔드 렌더링 최적화 · WebView ↔ React Native 
 
 <br />
 <br />
