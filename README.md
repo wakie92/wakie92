@@ -34,10 +34,17 @@
 
 <br />
 
-<br />
 
 ## 📫 Contact
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://wakie92.notion.site/Frontend-Developer-66b034de3c3343189d6c18c371596d37)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://wakie92.notion.site/Frontend-Developer-34f576d8c5508077887be23dcd17a20f)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wakie9292@gmail.com)
 
-- [Portfolio](https://wakie92.notion.site/Frontend-Developer-66b034de3c3343189d6c18c371596d37)
-- [wakie9292@gmail.com](mailto:wakie9292@gmail.com)
-- [Resume](https://wakie92.notion.site/Frontend-Developer-34f576d8c5508077887be23dcd17a20f)
+<br />
+
+## 🐍 Contribution Snake
+ 
+![Snake animation](https://raw.githubusercontent.com/wakie92/wakie92/output/snake.svg)
+ 
+<br />
